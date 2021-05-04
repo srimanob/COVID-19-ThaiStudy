@@ -1,4 +1,4 @@
-# COVID-19-ThaiStudy
+# Data Driven COVID-19 Estimation
 
 Developers
 1. Chakrit Pongkitivanichkul (KKU, Thailand): Main author
